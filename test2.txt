@@ -1,1 +1,3 @@
  this is the second file - first line
+
+this is the added second line
